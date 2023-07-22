@@ -1,5 +1,4 @@
 Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
-
 ```c#
 using System;
 
@@ -32,3 +31,6 @@ namespace Solution
   }
 }
 ```
+Reference
+- [Char.GetNumericValue](https://learn.microsoft.com/en-us/dotnet/api/system.char.getnumericvalue?view=net-6.0)
+- [Array.Exists](https://learn.microsoft.com/en-us/dotnet/api/system.array.exists?view=net-6.0)
