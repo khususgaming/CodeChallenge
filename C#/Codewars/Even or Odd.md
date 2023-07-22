@@ -33,6 +33,6 @@ namespace Solution
   }
 }
 ```
-Reference
+References:
 - [Char.GetNumericValue](https://learn.microsoft.com/en-us/dotnet/api/system.char.getnumericvalue?view=net-6.0)
 - [Array.Exists](https://learn.microsoft.com/en-us/dotnet/api/system.array.exists?view=net-6.0)
