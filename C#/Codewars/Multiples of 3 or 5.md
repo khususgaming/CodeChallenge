@@ -56,5 +56,5 @@ public static class Kata
   }
 }
 ```
-Reference
+References:
 - [Array.Exists](https://learn.microsoft.com/en-us/dotnet/api/system.array.exists?view=net-6.0)
