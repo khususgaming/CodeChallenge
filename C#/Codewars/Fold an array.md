@@ -46,8 +46,7 @@ public class Kata
         if (j == middle)
         {
           int last = 1;
-          if(array.Length == 2 && j == 1
-							|| array.Length % 2 == 0)
+          if(array.Length == 2 && j == 1 || array.Length % 2 == 0)
           {
             last = 0;
           }
