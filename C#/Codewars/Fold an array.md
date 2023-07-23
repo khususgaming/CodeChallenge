@@ -65,4 +65,5 @@ public class Kata
 ```
 References:
 - [Math.Ceiling](https://learn.microsoft.com/en-us/dotnet/api/system.math.ceiling)
+- [Casting and type conversions](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)
 - [Array.Resize](https://learn.microsoft.com/en-us/dotnet/api/system.array.resize)
